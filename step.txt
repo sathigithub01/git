@@ -4,3 +4,4 @@ it is cool
 it is checking
 it is another way
 it is good
+it is cool

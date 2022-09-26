@@ -1,2 +1,3 @@
 git is fast
 git is light weight
+it is hot
