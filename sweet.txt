@@ -7,3 +7,5 @@ git is undo
 git is waste
 git sweet
 git is fetch
+git is scm
+git is real
