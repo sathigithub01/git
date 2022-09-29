@@ -7,3 +7,4 @@ it is good
 it is cool
 it is nice
 it is waste
+it is not bad
